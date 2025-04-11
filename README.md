@@ -1,7 +1,7 @@
 
 # Tabla de Organizaciones con Gestión de Usuarios
 
-Este proyecto proporciona una interfaz de usuario basada en React para visualizar y gestionar una lista de organizaciones. Permite a los usuarios buscar organizaciones, navegar a través de los resultados mediante paginación y añadir nuevos usuarios a organizaciones específicas utilizando un formulario modal. Los datos de los usuarios añadidos se almacenan localmente en el navegador.
+Este proyecto proporciona una interfaz de usuario para visualizar y gestionar una lista de organizaciones. Permite a los usuarios buscar organizaciones, navegar a través de los resultados mediante paginación y añadir nuevos usuarios a organizaciones específicas utilizando un formulario modal. Los datos de los usuarios añadidos se almacenan localmente en el navegador.
 
 ## Características Principales
 
@@ -14,11 +14,7 @@ Este proyecto proporciona una interfaz de usuario basada en React para visualiza
 
 ## Tecnologías Utilizadas
 
-* **React:** Biblioteca de JavaScript para la interfaz de usuario.
-* **TypeScript:** Extensión de JavaScript con tipado estático.
-* **Tailwind CSS:** Framework CSS para el estilado.
-* **SweetAlert2:** Biblioteca para mostrar alertas y mensajes atractivos.
-
-## Funcionalidades Clave
-
-El proyecto se centra en la presentación eficiente de datos de organizaciones y la capacidad de gestionar usuarios asociados a ellas de forma sencilla a través de un formulario modal. La paginación mejora la experiencia al tratar con grandes cantidades de datos, y la búsqueda permite encontrar organizaciones rápidamente.
+* React
+* TypeScript
+* Tailwind CSS
+* SweetAlert2
